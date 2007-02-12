@@ -1,6 +1,6 @@
 %define		modname pathauto
 Summary:	Drupal Pathauto Module
-Summary(pl):	Modu≥ Pathauto dla Drupala
+Summary(pl.UTF-8):   Modu≈Ç Pathauto dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.1
@@ -21,9 +21,9 @@ The pathauto module automatically generates path aliases for various
 kinds of content (nodes, categories, users) when no explicit alias is
 provided by the user.
 
-%description -l pl
-Modu≥ pathauto automatycznie generuje aliasy ∂cieøek dla rÛønych
-rodzajÛw tre∂ci (wÍz≥Ûw, kategorii, uøytkownikÛw), kiedy uøytkownik
+%description -l pl.UTF-8
+Modu≈Ç pathauto automatycznie generuje aliasy ≈õcie≈ºek dla r√≥≈ºnych
+rodzaj√≥w tre≈õci (wƒôz≈Ç√≥w, kategorii, u≈ºytkownik√≥w), kiedy u≈ºytkownik
 nie zapewni aliasu wprost.
 
 %prep
